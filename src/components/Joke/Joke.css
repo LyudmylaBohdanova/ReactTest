@@ -1,0 +1,17 @@
+.jokeList{
+    padding: 40px;
+    display: flex;
+    flex-direction: column;
+    align-content: stretch;
+}
+.Joke{
+    background-color: #9999ff;
+    border-radius: 20px;
+    height: 100px;
+    justify-items: center;
+    margin-bottom: 20px;
+    padding-left: 40px;
+    padding-right: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 1.5em;
+}
